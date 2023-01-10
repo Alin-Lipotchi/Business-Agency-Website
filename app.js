@@ -39,5 +39,3 @@ video.addEventListener("timeupdate", () => {
         video.style.opacity = ".3";
     }
 });
-
-// Section 3 Pricing Cards
